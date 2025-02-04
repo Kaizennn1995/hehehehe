@@ -44,7 +44,7 @@ function moveNoButton() {
 
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yayyyyy, I Love You too";
+  titleElement.innerHTML = "Yayyyyy, I Love You tooooooooo";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
@@ -59,7 +59,7 @@ function resizeYesButton() {
 
 function generateMessage(noCount) {
   const messages = [
-    "No",
+    "Noooooooooo",
     "Are you sure?",
     "Babhieee please",
     "Don't do this to me :(",
